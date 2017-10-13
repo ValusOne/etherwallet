@@ -1048,4 +1048,14 @@
 "symbol":"ZST",
 "decimal":8,
 "type":"default"
+},{
+"address":"0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+"symbol":"PIPL",
+"decimal":8,
+"type":"default"
+},{
+"address":"0xa69a5675527dDb30a0D5830a427328587a94843f",
+"symbol":"VLS",
+"decimal":18,
+"type":"default"
 }]
