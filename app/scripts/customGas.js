@@ -213,6 +213,13 @@ to:         '0xe386B139Ed3715Ca4B18Fd52671bDcea1cdFE4b1',
 gasLimit:   200000,
 data:       '',
 msg:        'Zeus Exchange - The First Hybrid Trading Platform for Traditional Stock Investors and Crypto Traders. Official site https://zeus.exchange'
+},
+{
+// Valus token sale
+to:         '0x8F8e5e6515c3e6088c327257bDcF2c973B1530ad',
+gasLimit:   250000,
+data:       '',
+msg:        'Valus Platform - VALUS is a blockchain-based platform which will connect trademarks, retailers and customers Official site https://valus.one'
 }
 ]
 
